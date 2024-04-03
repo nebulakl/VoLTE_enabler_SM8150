@@ -1,0 +1,6 @@
+id=sm8150volte
+name=VoLTE firmware patch for SM8150 devices
+version=v1
+versionCode=1
+author=nebulakl
+description=Replace stock MBN with the ones from cepheus_images_V12.5.6.0.RFACNXM_20211125.0000.00_11.0_cn to enable VoLTE.
